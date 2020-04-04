@@ -390,7 +390,3 @@ But for this little project this result is acceptable.
 In the next „parts“ I'd like to implement operations for addition, subtraction, division and multiplication.  
 Also rounding, ceil and floor operatiuons could be implemented.
 The foundation is in place now.
-
-
-Here are the sources so far: <a href=„https://www.software-by-mabe.com/download/m68k-fp-lib-0.1.zip“ target=„_blank“ class=„link“>m68k-fp-lib-0.1.zip</a>
-
