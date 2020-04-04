@@ -17,7 +17,7 @@ I must say, it took longer than a weekend. :) But it was a great experience.
 (I'm posting the full assembler source code at the end of the post.)  
 It was developed using the 'DevPac' assembler. A well known macro assembler for the Amiga.)
 
-As the first part of this blog I'd like to write a little about the theory of floating-point numbers.  
+Let me first write a little about the theory of floating-point numbers.  
 But I'm assuming that you know what 'floating-point' numbers are.
 
 One of the floating point standards is IEEE 754.  
